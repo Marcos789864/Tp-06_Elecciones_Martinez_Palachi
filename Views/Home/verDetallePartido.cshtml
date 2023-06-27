@@ -1,0 +1,16 @@
+<a href='@Url.Action("agreagarCandidato", new {idPartido = ViewBag.ListarPartidos.idPartido})'></a>
+
+
+
+<div class="card">
+  <img src="/img/" alt="imagen partido">
+  <div class="container">
+    @foreach (Candidato can in ViewBag.ListarCandidatos)
+    {
+        <h4><b>can.Apellido</b></h4>
+    }
+  </div>
+</div>
+
+
+<form action='@Url.Action("verDetalleCandidato")'></form>
