@@ -1,0 +1,177 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP06.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP06.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\Claudio_Lozano.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\Claudio_Lozano.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\Elisia Carrio.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\Elisia Carrio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\Facundo Manes.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\Facundo Manes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\Gabriel Mariotto.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\Gabriel Mariotto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\Gabriel Solano.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\Gabriel Solano.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\Gerardo Morales.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\Gerardo Morales.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\Javier Milei.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\Javier Milei.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\Jesus Escobar.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\Jesus Escobar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\Jose Luis Espert.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\Jose Luis Espert.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\Juan Grabois.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\Juan Grabois.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\Juan Manuel Urtubey.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\Juan Manuel Urtubey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\Miguel angel pichetto.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\Miguel angel pichetto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\Miryam Bregman.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\Miryam Bregman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\guistin rossi.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\guistin rossi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\juan schiaretti.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\juan schiaretti.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\larri.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\larri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\pato.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\pato.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\Candidatos\\scioli.jpg",
+      "PackagePath": "staticwebassets\\Candidatos\\scioli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\1200px-CCARI_Logo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\1200px-CCARI_Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\Argentina.png",
+      "PackagePath": "staticwebassets\\imagenes\\Argentina.png"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\AvanzaLibertadLogo2022.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\AvanzaLibertadLogo2022.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\Bandera_de_la_Uni+¦n_C+¡vica_Radical.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Bandera_de_la_Uni+¦n_C+¡vica_Radical.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\Bandera_del_Partido_Justicialista.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Bandera_del_Partido_Justicialista.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\BanderadeaUni+¦nC+¡vicaRadical.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\BanderadeaUni+¦nC+¡vicaRadical.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\Eliminar.png",
+      "PackagePath": "staticwebassets\\imagenes\\Eliminar.png"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\Frente_de_Izquierda_y_de_los_Trabajadores_Unidad.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Frente_de_Izquierda_y_de_los_Trabajadores_Unidad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\Frente_patria_grande.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Frente_patria_grande.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\Libresdelsur_logo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Libresdelsur_logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\Logo_ERF_Argentina.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Logo_ERF_Argentina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\Marcos.png",
+      "PackagePath": "staticwebassets\\imagenes\\Marcos.png"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\Palachi.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\Palachi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\Partido_Obrero_Logo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Partido_Obrero_Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\Propuesta_Republicana.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Propuesta_Republicana.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\avanza la libertad.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\avanza la libertad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\imagenes\\descarga.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\descarga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47807324\\Desktop\\tp062\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TP06.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TP06.props",
+      "PackagePath": "build\\TP06.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TP06.props",
+      "PackagePath": "buildMultiTargeting\\TP06.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TP06.props",
+      "PackagePath": "buildTransitive\\TP06.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

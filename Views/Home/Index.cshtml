@@ -1,9 +1,16 @@
 ﻿@{
     ViewData["Title"] = "Index";
 }
-
-<header>
-<img src="imagenes/Argentina.png">
-<a href='@Url.Action("Index")'> </a>
-<a href=""></a>
-</header>
+<br>
+<br>
+<br>
+<br>
+<br>
+@for(int i = 0; i < @ViewBag.ListPartidos.Count;i++)
+{
+    <div class = "card">
+        <a href="@ViewBag.ListPartidos[i].sitioWeb"><img src="imagenes/@ViewBag.ListPartidos[i].logo" width="200px" height="180px"></a>
+        <p>Nombre:@ViewBag.ListPartidos[i].nombre</p>
+        <a href='@Url.Action("verDetallePartido", new{idPartido = ViewBag.ListPartidos[i].idPartido})'> Ver Mas</a>
+    </div>
+}

@@ -1,6 +1,6 @@
 public class Candidato
 {
-    public int idCandidato{get;set;}
+    public int idCandidatos{get;set;}
 
     public int idPartido{get;set;}
 
@@ -10,7 +10,7 @@ public class Candidato
 
     public DateTime fechaNacimiento{get;set;}
 
-    public string Foto{get;set;}
+    public string foto{get;set;}
 
     public string Postulacion{get;set;}
 } 

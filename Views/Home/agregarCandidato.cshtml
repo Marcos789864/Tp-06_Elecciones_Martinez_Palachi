@@ -1,1 +1,21 @@
-<form action=""></form>
+
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+<form action='@Url.Action("guardarCandidato")' method="post">
+<input type="hidden" name="idPartido" value="@ViewBag.idpar">
+<h3> Ingrese el apellido del candidato</h3>
+<input type="text" name="apellido">
+<h3>Ingrese el nombre del candidato</h3>
+<input type="text" name="nombre">
+<h3> Ingrese la fecha de nacimiento</h3>
+<input type="date" name="fechaNacimiento">
+<h3> Ingrese la foto</h3>
+<input type="file" name="foto">
+<h3> Ingrese a que partido se postula</h3>
+<input type="text" name="postulacion">
+<input type="submit">
+</form>

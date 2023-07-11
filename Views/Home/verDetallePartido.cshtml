@@ -1,16 +1,48 @@
-<a href='@Url.Action("agreagarCandidato", new {idPartido = ViewBag.ListarPartidos.idPartido})'></a>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <center>
+    <h1>Partido</h1>
+    </center>
+ 
+        <div class="container">
+            <div class="card1">
+                <a href="@ViewBag.verInfoPartido.sitioWeb"><img src="/imagenes/@ViewBag.verInfoPartido.logo" width="200px" height="180px"></a>
+                <p>Nombre: @ViewBag.verInfoPartido.nombre</p>
+                <p>Fundacion: @ViewBag.verInfoPartido.fechaFundacion.ToShortDateString()</p>
+                <p> Diputados: @ViewBag.verInfoPartido.cantidadDiputados</p>
+                <p>Senadores: @ViewBag.verInfoPartido.cantidadSenadores</p>
+                <button><p><a href= '@Url.Action("agregarCandidato", new {idPartido = ViewBag.verInfoPartido.idPartido})'>Agregar Candidato</a></p></button>
+            </div>
+        </div>
+   
 
 
-
-<div class="card">
-  <img src="/img/" alt="imagen partido">
-  <div class="container">
-    @foreach (Candidato can in ViewBag.ListarCandidatos)
+    <center><h1>Candidatos</h1></center>
+    @for (int i = 0; i < @ViewBag.ListarCandidatos.Count; i++)
     {
-        <h4><b>can.Apellido</b></h4>
+         <div class="card">
+        <img src="/Candidatos/@ViewBag.ListarCandidatos[i].foto" width="200px" height="180px"> 
+        <br>
+        <br>
+        <br>
+        <br>
+        <a href='@Url.Action("verDetalleCandidato", new {idCandidato = ViewBag.ListarCandidatos[i].idCandidatos})'> Ver mas</a>
+        <br>
+        <br>
+        <a href='@Url.Action("eliminarCandidato",new {idCandidato = ViewBag.ListarCandidatos[i].idCandidatos,idPartido = ViewBag.ListarCandidatos[i].idPartido})'><img src="/imagenes/Eliminar.png" width="50x" height="50px"></a>
+        </div>
     }
-  </div>
-</div>
+
+  
+
+   
+   
+    
+   
 
 
-<form action='@Url.Action("verDetalleCandidato")'></form>
+

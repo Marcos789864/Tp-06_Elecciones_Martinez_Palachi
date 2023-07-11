@@ -7,6 +7,13 @@
         <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     </head>
     <body>
+
+    <header>
+    <img src="/imagenes/Argentina.png">
+    <a href='@Url.Action("Index")'> Inicio</a>
+    <a href='@Url.Action("Elecciones")'> Elecciones</a>
+    <a href='@Url.Action("creditos")'>Creditos</a>
+    </header>
     
             @RenderBody()      
         

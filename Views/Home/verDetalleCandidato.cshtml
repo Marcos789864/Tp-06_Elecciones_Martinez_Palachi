@@ -1,3 +1,19 @@
-<form action='"@Url.Action("verDetallePartido")'>
-<button href='@Url.Action("verDetalleCandidato")' type="button">Agregar Candidato</button>
-</form>
+ <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+<div class="card">
+    <img src="/imagenes/@ViewBag.Candidatos.foto">
+    <p>Nombre:@ViewBag.Candidatos.nombre</p>
+    <p>Apellido: @ViewBag.Candidatos.apellido</p>
+    <p>Nacimiento: @ViewBag.Candidatos.fechaNacimiento.ToShortDateString()</p>
+    <p>Postulacion: @ViewBag.Candidatos.Postulacion</p>
+</div>
+
+
+
+
+<a href='@Url.Action("verDetallePartido", new{idPartido = ViewBag.Candidatos.idPartido})'> Volver</a>
